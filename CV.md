@@ -1,5 +1,5 @@
 title: Cirrculum Vitae
-layout: template
+layout: jekyll-theme-cayman
 filename: CV.md
 
 # Education
