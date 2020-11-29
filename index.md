@@ -1,4 +1,21 @@
-## Welcome to GitHub Pages
+## Kris Laferriere
+First Year Planetary Science PhD Student
+Deptartment of Earth, Atmosphere, And Planetary Science
+Purdue University
+
+## CV
+
+## Current Projects
+### Exploring the variability of the lunar 3 micron hydration feature
+
+### Mapping Mars' Polar spiral migration paths
+
+## Outreach
+
+# Contact
+
+
+
 
 You can use the [editor on GitHub](https://github.com/klaferr/klaferr.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
