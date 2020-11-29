@@ -1,8 +1,4 @@
-
-
 title: Kris Laferriere
-layout: template
-filename: NAME OF THIS .md FILE HERE
 
 ## Kris Laferriere
 First Year Planetary Science PhD Student
