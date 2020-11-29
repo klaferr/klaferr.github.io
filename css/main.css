@@ -8,6 +8,7 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    color: #FF6252;
 }
 nav ul li, footer ul li {
     display: inline;
@@ -19,10 +20,12 @@ a {
 }
 a:hover {
     text-decoration: underline;
+    color: #FF6252;
 }
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    color: #00AF91;
 }
 p {
     font-size: 1.5em;
@@ -43,5 +46,4 @@ ul.posts li {
     list-style: none;
 }
 
-h1 { color: #00AF91; }
 
