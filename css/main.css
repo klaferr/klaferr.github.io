@@ -17,7 +17,7 @@ nav ul li, footer ul li {
 .example {
     float: right;
     dont-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 20px;
+    padding: 2px;
     list-style: none;
     font-weight: bold;
     color: #00AF91;
