@@ -53,6 +53,11 @@ p {
     line-height: 1.2em;
     color: #3E4B4B;
 }
+li {
+    font-size=1.1em;
+    line-height:0.8em;
+    color: #000000;
+}
 footer {
     border-top: 1px solid #B2B9B9;
     font-size: .8em;
