@@ -33,18 +33,18 @@ a:hover {
     color: #FF6252;
 }
 h1 {
-    font-size: 3.5wv;
+    font-size: 2.0wv;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding-bottom: 2px;
     color: #00AF91;
 }
 h2 {
-    font-size: 2vw;
+    font-size: 1.75vw;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     color: #00AF91;
 }
 h3 {
-    font-size: 1vw;
+    font-size: 1.6vw;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     font-style: italic;
     color: #000000;
