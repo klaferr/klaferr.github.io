@@ -24,7 +24,7 @@ nav ul li, footer ul li {
     margin-right: 20px;
     width: 95%;
 }
-a {
+a:link {
     text-decoration: none;
     color: #00AF91;
 }
