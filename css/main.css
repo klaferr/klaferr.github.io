@@ -60,6 +60,11 @@ li {
     color: #000000;
 }
 
+footer {
+    border-top: 1px solid #B2B9B9;
+    font-size: .8em;
+}
+
 ul.posts { 
     margin: 0px auto 100px; 
     font-size: 1.5em;
@@ -67,11 +72,4 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
-}
-
-footer {
-    border-top: 1px solid #B2B9B9;
-    font-size: .8em;
-    display: inline;
-    margin-right: 0px;
 }
