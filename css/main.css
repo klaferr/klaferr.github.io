@@ -33,7 +33,7 @@ a:hover {
     color: #FF6252;
 }
 h1 {
-    font-size: 3wv;
+    font-size: 3.5wv;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding-bottom: 2px;
     color: #00AF91;
@@ -51,18 +51,18 @@ h3 {
 }
 p {
     font-size: 1.5vw;
-    line-height: 1.5vw;
+    line-height: 1.7vw;
     color: #000000;
-    padding-left: 2px;
+    padding-left: 1%;
 }
 li {
     font-size=1vw;
-    line-height:1.0vw;
+    line-height:1.2vw;
     color: #000000;
 }
 
 footer {
-    border-top: 1vw solid #B2B9B9;
+    border-top: 0.5vw solid #B2B9B9;
     font-size: .8vw;
 }
 
