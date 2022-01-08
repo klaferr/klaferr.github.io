@@ -51,7 +51,7 @@ h3 {
 }
 p {
     font-size: 1.5vw;
-    line-height: 1.2vw;
+    line-height: 1.5vw;
     color: #000000;
     padding-left: 2px;
 }
@@ -62,7 +62,7 @@ li {
 }
 
 footer {
-    border-top: 2vw solid #B2B9B9;
+    border-top: 1vw solid #B2B9B9;
     font-size: .8vw;
 }
 
