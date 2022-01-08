@@ -40,12 +40,12 @@
 	
 <!-- First Grid -->
 <div class="w3-container">
-  <div class="content" style="padding:15%; padding-left:15%; padding-right:15%" >
+  <div class="content" style="padding:15%; padding-left:5%; padding-right:5%" >
       <h1 style="text-align:center"> Current Projects </h1>
 	  <hr>
 	  <h2> Mapping Migration Paths of Mars Northern Polar Spiral Troughs </h2>
 			<h3> with Dr. Ali Bramson, Purdue University </h3>
-	  <img src="Website_shot.png" alt="3D migration path mapped in Seisware" style="float:left; padding-right:20px"  width="580px" height="280px">
+	  <img src="Website_shot.png" alt="3D migration path mapped in Seisware" style="float:left; padding-right:2%; max-width:25%; height:auto" >
 	<p style="float: left; clear: left">
 	
 <p style="text-align:justify"> Mars’ northern pole features a kilometers-thick ice cap of mostly pure water ice, and most of this polar cap is made up of the North Polar Layered 
@@ -57,11 +57,11 @@
 	Shown on the left is an example of a migration path mapped in the 3D dataset. 
 	 </p>
 </div>
-   <div class="content" style="padding:0px; padding-left:150px; padding-right:150px" >
+   <div class="content" style="padding:0%; padding-left:5%; padding-right:5%" >
 	<h2> Exploring the variability of the 3 micron hydration feature across the southern hemisphere of the Moon </h2>
 	<h3> With Dr. Jessica Sunshine and Dr. Lori Feaga, University of Maryland, College Park </h3>
 
-	<img src="figure2_version4.png" alt="Lunar hydration feature, calibration of data" width="550" height="450" style="float:left; padding-right:20px">
+	<img src="figure2_version4.png" alt="Lunar hydration feature, calibration of data"  style="float:left; padding-right:2%; max-width:25%; height:auto">
 	<p style="float: left; clear: left">
 				
 	<p style="text-align:justify"> The 3µm OH/H<sub>2</sub>O hydration feature on the Moon has been observed using various instruments. The 2009 Deep Impact spacecraft flyby present a unique view of the southern hemisphere, allowing for exploration of the feature spatially and temporally using near infrared spectroscopy. The HRI-IR spectrometer aboard Deep Impact includes out to 4.85 micrometers, which allowed for removal of the thermal component of the spectra through modeling of a scatter and thermal spectra component. This allows us to investigate the entire 3 micron absorption feature and the variability in strength and shape across the southern hemisphere. 
@@ -80,11 +80,11 @@
 </div>
 	
 <div class="w3-container">
-  <div class="content" style="padding:0px; padding-left:150px; padding-right:150px" >
+  <div class="content" style="padding:0%; padding-left:5%; padding-right:5%" >
  <h1 style="text-align:center"> Past Projects </h1>
   <h2> Survey of low speed meteor showers </h2>
 			<h3> with Dr. Althea Moorhead, Marshall Space Flight Center, Meteoroid Enviornment Office </h3>
-  <img src="bar.jpg" alt="bar graph showing number of meteors associate with each shower" width="320" height="350" style="float:left; padding-right:20px">
+  <img src="bar.jpg" alt="bar graph showing number of meteors associate with each shower" style="float:left; padding-right:2%; max-width:25%; height:auto">
 	<p style="float: left; clear: left">
 			
 	<p style="text-align:justify"> Proper shower assossiation of meteors observed expands our ability to predict and forecast future shower fluxes. Slow meteors often are difficult to associate with showers due to their geometry upon collision with Earth's atmosphere, so we attempted to associate meteors to showers from their helocentric radiant, rather than the geocentric radiant they are observed in. 
@@ -103,6 +103,17 @@
 
 			</ul>
 		</footer>
+	
+	// Used to toggle the menu on small screens when clicking on the menu button
+function myFunction() {
+  var x = document.getElementById("navDemo");
+  if (x.className.indexOf("w3-show") == -1) {
+    x.className += " w3-show";
+  } else { 
+    x.className = x.className.replace(" w3-show", "");
+  }
+}
+	
 	</body>
 
 </html>
