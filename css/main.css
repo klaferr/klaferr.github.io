@@ -1,6 +1,6 @@
 /* Desktop */
 body {
-    margin: 10px auto;
+    margin: 10%;
     width: 100%;
     color: #000000;
 }
@@ -79,7 +79,7 @@ ul.posts li {
 /* Phones */
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
-  [class*="col-"] {
+  [class*="content"] {
     width: 100%;
   }
 }
