@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<html lang="en">
+	<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+
+	<head>
+		<title>Kris Laferriere</title>
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+		<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<style>
+.w3-bar,h1,button {font-family: "Montserrat", sans-serif'}
+@media screen and (max-width: 800px){
+    p {
+        color: red;
+    }
+}
+</style>
+	</head>
+<body>
+
+			
+<! -- Nav bar -->
+<div class="w3-top">
+  <div class="w3-bar w3-blue w3-card w3-left-align w3-medium">
+    <a class="w3-bar-item w3-button w3-hide-large w3-right w3-padding-large w3-hover-white w3-medium w3-blue" href="javascript:void(0);" onclick="myFunction()" title="Toggle Navigation Menu"><i class="fa fa-bars"></i></a>
+    <a href="/" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-blue" style="float:right"> <b>KRIS LAFERRIERE &nbsp&nbsp&nbsp</b></a>
+    <a href="#" class="w3-bar-item w3-button w3-padding-large w3-blue w3-hover-blue"> &nbsp&nbsp&nbsp </a>
+    <a href="/" class="w3-bar-item w3-button w3-padding-large w3-blue">Home</a>
+    <a href="/Projects" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white" >Projects</a>
+    <a href="https://klaferr.github.io/Kris_CV.pdf" target="_blank" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-hover-white" >CV</a>
+    <a href="/outreach" class="w3-bar-item w3-button w3-hide-small w3-padding-large w3-white w3-hover-white">Outreach</a>
+  </div>
+
+ <!-- Navbar on small screens -->
+   <div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium">
+	   <a href="/" class="w3-bar-item w3-button w3-text-black">Home</a>
+    <a href="https://klaferr.github.io/Kris_CV.pdf" target="_blank" class="w3-bar-item w3-button w3-text-black" onclick="toggleFunction()"> CV </a>
+<a href="/Projects" class="w3-bar-item w3-button w3-text-black" onclick="toggleFunction()">Projects</a>
+
+  </div>
+</div>
+
+<!-- First Grid -->
+<div class="w3-container">
+  <div class="content" style="padding:5%; padding-left:5%; padding-right:5%" >
+      <h1 style="text-align:center"> Outreach and DEI </h1>
+	 <hr>
+ <hr>
+
+<div class="content" style="padding-left:2%; padding-right:2%">
+         <h2> TMPs </h2>
+		  <h3> TMP1 </h3>
+			
+			<p> ASTR120: Introduction to Astrophysics (Majors) - Fall 2019 </p>
+	   
+	<h3> TMP2 </h3>
+	<p> Undergraduate representative on UMD Astronomy Equity, Diversity, and Inclsuion committee (Fall 2016-Spring 2020) </p>
+		
+  
+	   </div>
+	  <pre>
+	  </pre>
+	  <hr>
+    </div>
+</div>
+
+<footer>	
+	<ul style="text-align:center">
+        		<li><a href="mailto:klaferri@purdue.edu">email</a></li>
+        		<li><a href="https://github.com/klaferr" target="_blank">github.com/klaferr</a></li>
+			<li><a href="https://twitter.com/KrisLaferriere" target="_blank">twitter/@KrisLaferriere</a></li>
+			</ul>
+</footer>	
+	<script>
+	// Used to toggle the menu on small screens when clicking on the menu button
+function myFunction() {
+  var x = document.getElementById("navDemo");
+  if (x.className.indexOf("w3-show") == -1) {
+    x.className += " w3-show";
+  } else { 
+    x.className = x.className.replace(" w3-show", "");
+  }
+}
+	</script>
+</body>
+</html>
