@@ -17,6 +17,23 @@
 
 <style>
 .w3-bar,h1,button {font-family: "Montserrat", sans-serif'}
+body {
+  display: grid;
+  padding: 2rem;
+  grid-template-columns: 300px 1fr;
+  gap: 1rem;
+  align-items: center;
+  max-width: 800px;
+  margin: 0 auto;
+  font: 500 100%/1.5 system-ui;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+
+
 @media only screen and (max-width: 768px) {
 /* For mobile phones: */
   [class*="content"] {
@@ -26,6 +43,19 @@
 [class*="w3-container"] {
     width: 100%;
     
+  }
+}
+
+@media (max-width: 650px) {
+  body {
+    display: block;
+    font-size: 80%;
+  }
+  p {
+    position: relative;
+    margin: -3rem 0 2rem 1rem;
+    padding: 1rem;
+    background: rgba(white, 0.8);
   }
 }
 </style>
@@ -60,28 +90,30 @@
       <h1 style="text-align:center"> LPSC 2022 Videos </h1>
 	 <hr>
  <hr>
+ <div class="content" style="padding-left:2%; padding-right:2%">
+    <h2> TMPs </h2>
 
-<div class="content" style="padding-left:2%; padding-right:2%">
-         <h2> TMPs </h2>
-	<h3> TMP1 </h3>	
-	 <img src="depth_3d_T1_vis.gif" alt="GIF showing TMP1 with depth" style="max-width:70%; height:auto; float:left; padding-right:3%; padding-left:10%">
-	<p>  </p>
-	<br></br>
-	<h3> TMP2 </h3>
-	 <img src="depth_3d_T2_vis.gif" alt="GIF showing TMP2 with depth" style="max-width:70%; height:auto; float:center; padding-right:3%;">
-	<p>  </p>
-	<br></br>
-	<h3> TMP3 </h3>
-	 <img src="depth_3d_vis.gif" alt="GIF showing TMP3 with depth" style="max-width:70%; height:auto; float:left; padding-right:3%;">
-	<br></br>
-	<p> Appears to have originally been two troughs which collided and now migrate as one </p>
-  
+<img src='depth_3d_T1_vis.gif' width="400" height="300" alt='GIF showing TMP1 with depth'>
+
+<p></p>
+
+<img src='depth_3d_T2_vis.gif' width="400" height="300" alt='GIF showing TMP2 with depth'>
+
+<p></p>
+
+<img src='depth_3d_vis.gif' width="400" height="300" alt='GIF showing TMP3 with depth'>
+
+<p>Appears to have originally been two troughs which collided and now migrate as one.</p>
+
 	   </div>
 	  <pre>
 	  </pre>
 	  <hr>
     </div>
 </div>
+
+
+
 
 <footer>	
 	<ul style="text-align:center">
