@@ -82,15 +82,3 @@ img {
   height: auto ;
 }
 
-/* Phones */
-@media only screen and (max-width: 768px) {
-  /* For mobile phones: */
-  [class*="content"] {
-    width: 100%;
-  }
-   [class="img"]{
-  width: auto ;
-  max-width: 100% ;
-  height: auto ;
-}
-}
