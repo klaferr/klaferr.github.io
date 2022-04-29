@@ -35,11 +35,13 @@
   </div>
 
  <!-- Navbar on small screens -->
-   <div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium">
-    <a href="/Projects" class="w3-bar-item w3-button w3-text-black" onclick="toggleFunction()">Projects</a>
-    <a href="https://klaferr.github.io/Kris_CV.pdf" target="_blank" class="w3-bar-item w3-button w3-text-black" onclick="toggleFunction()"> CV </a>
-    <a href="/outreach" class="w3-bar-item w3-button w3-text-black">Outreach</a>
-  </div>
+<div class="topnav" id="myTopnav">
+  <a href="#home" class="active">Home</a>
+  <a href="#contact">Projects</a>
+
+  <a href="#about">CV</a>
+  <a href="javascript:void(0);" class="icon" onclick="myFunction()">&#9776;</a>
+</div>  
 </div>
 	
 <!-- First Grid -->
@@ -103,6 +105,18 @@ href="https://statcounter.com/" target="_blank"><img class="statcounter"
 src="https://c.statcounter.com/12737916/0/769c3296/1/" alt="hit counter"
 referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
 <!-- End of Statcounter Code -->
+
+	<script>
+/* Toggle between adding and removing the "responsive" class to topnav when the user clicks on the icon */
+function myFunction() {
+  var x = document.getElementById("myTopnav");
+  if (x.className === "topnav") {
+    x.className += " responsive";
+  } else {
+    x.className = "topnav";
+  }
+}
+</script>
 	
 </body>
 </html>
