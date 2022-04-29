@@ -84,7 +84,6 @@ img {
   padding-top: 2%;
 }
 
-
 /* Add a black background color to the top navigation */
 .topnav {
   background-color: #333;
@@ -126,7 +125,7 @@ img {
   outline: none;
   color: white;
   padding: 14px 16px;
-  background-color: inherit;
+  background-color: #2196F3;
   font-family: inherit;
   margin: 0;
 }
@@ -135,7 +134,7 @@ img {
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #f9f9f9;
+  background-color: #2196F3;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
@@ -144,7 +143,7 @@ img {
 /* Style the links inside the dropdown */
 .dropdown-content a {
   float: none;
-  color: black;
+  color: #2196F3;
   padding: 12px 16px;
   text-decoration: none;
   display: block;
@@ -153,7 +152,7 @@ img {
 
 /* Add a dark background on topnav links and the dropdown button on hover */
 .topnav a:hover, .dropdown:hover .dropbtn {
-  background-color: #555;
+  background-color: #2196F3;
   color: white;
 }
 
@@ -200,6 +199,7 @@ img {
     text-align: left;
   }
 }
+
 
 
 
