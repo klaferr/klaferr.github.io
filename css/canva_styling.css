@@ -25,7 +25,7 @@ li {
   display: flex;
   align-items: center;
   justify-content: right;
-  padding: 10px;
+  padding: 2vh;
   background-color: #adc8d9;
   color: black;
 }
@@ -39,7 +39,7 @@ li {
 
 .menu {
   display: flex;
-  gap: 0px;
+  gap: 2vh;
   font-size: 14px;
 }
 
@@ -106,7 +106,7 @@ input[type=checkbox] {
 
 /* APPLYING MEDIA QUERIES */
 
-@media (max-width: 768px) {
+@media (max-width: 800px) {
 
   .menu {
     display: none;
@@ -115,7 +115,7 @@ input[type=checkbox] {
     right: 0;
     left: 0;
     text-align: center;
-    padding: 5px 0px;
+    padding: 5px px;
   }
 
   .menu li+li {
@@ -149,24 +149,13 @@ input[type=checkbox] {
 }
 
 /* Main sections */
-.firstsection {
-  background-color: #adc8d9;
-  height: 100px;
-  justify-content: right;
-  display: flex;
-  align-items: center;
-  max-width: 100%;
-  margin: auto;
-  flex-direction: column;
-}
-
 .secondsection {
   display: flex;
   background-color: #adc8d9;
   background-size: contain;
-  height: 350px;
+  height: 50vw;
   justify-content: center;
-  align-items: top;
+  align-items: start;
   max-width: 100%;
   margin: auto;
   flex-direction: column;
@@ -177,32 +166,64 @@ input[type=checkbox] {
   justify-content: space-between;
   align-items: center;
   color: black;
-  max-width: 80%;
-  margin: auto;
-  height: 100%;
+  max-width: 100%;
+  margin: 2em;
+  height: 80%;
 }
 
-.section {
-  height: 400px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  max-width: 90%;
-  margin: auto;
-}
-
-.firsthalf {
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-}
 
 /* Clear floats after the columns */
 .row {
   display: flex;
   flex-direction: row;
   width: 100%;
+}
+
+@media screen and (max-width: 800px) {
+  .secondsection {
+  display: flex;
+  background-color: #adc8d9;
+  background-size: contain;
+  justify-content: center;
+  max-width: 100%;
+  margin: auto;
+  height: 130vh;
+  align-items: start;
+  flex-direction: column;
+  }
+
+.box-main {
+  display: flex;
+  align-items: center;
+  color: black;
+  max-width: 100%;
+  margin: 2em;
+  height: 90%;
+}
+
+  .row {
+    flex: 1;
+    flex-direction: column;
+  }
+
+  .lefthalf {
+  flex: 100%;
+  justify-content: start;
+  text-align: justify;
+}
+
+.righthalf {
+  text-align: left;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+  .img{
+    max-width: auto;
+  }
+
 }
 
 .lefthalf {
@@ -213,11 +234,11 @@ input[type=checkbox] {
 
 .righthalf {
   display: flex;
-  flex: 30%;
-  align-items: start;
+  flex: 40%;
+  align-items: end;
   flex-direction: column;
-  padding-left: 20px;
   justify-content: space-between;
+  vertical-align: baseline;
 }
 
 .text-big {
@@ -225,7 +246,6 @@ input[type=checkbox] {
   font-size: 35px;
   justify-content: center;
 }
-
 
 
 /* unvisited link */
@@ -268,21 +288,17 @@ h2 {
 
 p {
   display: block;
-  margin-top: 1em;
-  margin-bottom: 1em;
-  margin-left: 0;
-  margin-right: 0;
+
 }
 
 footer {
   border-top: 0.25vw solid black;
-}
-
-f {
-  display: flex;
   justify-content: space-around;
-
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
 }
+
 
 ul {
   display: flex;
@@ -291,14 +307,11 @@ ul {
 
 
 li {
-  height: 60vh;
   flex-grow: auto;
 }
 
 img {
-  max-height: 100%;
-  min-width: 100%;
-  object-fit: cover;
-  vertical-align: bottom;
-
+    display: flex;
+    width: 30vw;
 }
+
