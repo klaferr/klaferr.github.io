@@ -1,0 +1,304 @@
+/* UTILITIES */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+body {
+  font-family: Sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+li {
+  list-style: none;
+}
+
+/* NAVBAR STYLING STARTS */
+
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  padding: 10px;
+  background-color: #adc8d9;
+  color: black;
+}
+
+.nav-links a {
+  color: black;
+}
+
+
+/* NAVBAR MENU */
+
+.menu {
+  display: flex;
+  gap: 0px;
+  font-size: 14px;
+}
+
+.menu li {
+  padding: 2px 2px;
+}
+
+.dropdown li {
+  padding: 0.5em 1em;
+  width: 8px;
+  text-align: center;
+}
+
+.dropdown li+li {
+  margin-top: 5px;
+}
+
+.menu li:hover {
+  background-color: #c7add9;
+  border-radius: 5px;
+  transition: 0.3s ease;
+}
+
+/* DROPDOWN MENU */
+.services {
+  position: relative;
+}
+
+.dropdown {
+  background-color: #c7add9;
+  padding: 1em 0;
+  position: absolute;
+
+  /* WITH RESPECT TO PARENT */
+  display: none;
+  border-radius: 8px;
+  top: 5px;
+
+}
+
+.dropdown li:hover {
+  background-color: #c7add9;
+}
+
+.services:hover .dropdown {
+  display: block;
+}
+
+/* RESPONSIVE NAVBAR MENU STARTS */
+
+/* CHECKBOX HACK */
+
+input[type=checkbox] {
+  display: none;
+}
+
+/* HAMBURGER MENU */
+
+.hamburger {
+  display: none;
+  font-size: 20px;
+  user-select: none;
+}
+
+/* APPLYING MEDIA QUERIES */
+
+@media (max-width: 768px) {
+
+  .menu {
+    display: none;
+    position: absolute;
+    background-color: #d1dee6;
+    right: 0;
+    left: 0;
+    text-align: center;
+    padding: 5px 0px;
+  }
+
+  .menu li+li {
+    margin-top: 12px;
+  }
+
+  .menu li:hover {
+    display: inline-block;
+    background-color: #c7add9;
+    transition: 0.3s ease;
+  }
+
+  input[type=checkbox]:checked~.menu {
+    display: block;
+  }
+
+  .hamburger {
+    display: block;
+  }
+
+  .dropdown {
+    left: 50%;
+    top: 10px;
+    transform: translateX(35%);
+  }
+
+  .dropdown li:hover {
+    background-color: #c7add9;
+  }
+
+}
+
+/* Main sections */
+.firstsection {
+  background-color: #adc8d9;
+  height: 100px;
+  justify-content: right;
+  display: flex;
+  align-items: center;
+  max-width: 100%;
+  margin: auto;
+  flex-direction: column;
+}
+
+.secondsection {
+  display: flex;
+  background-color: #adc8d9;
+  background-size: contain;
+  height: 350px;
+  justify-content: center;
+  align-items: top;
+  max-width: 100%;
+  margin: auto;
+  flex-direction: column;
+}
+
+.box-main {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: black;
+  max-width: 80%;
+  margin: auto;
+  height: 100%;
+}
+
+.section {
+  height: 400px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 90%;
+  margin: auto;
+}
+
+.firsthalf {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+/* Clear floats after the columns */
+.row {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+}
+
+.lefthalf {
+  flex: 60%;
+  justify-content: left;
+  text-align: justify;
+}
+
+.righthalf {
+  display: flex;
+  flex: 30%;
+  align-items: start;
+  flex-direction: column;
+  padding-left: 20px;
+  justify-content: space-between;
+}
+
+.text-big {
+  font-weight: bold;
+  font-size: 35px;
+  justify-content: center;
+}
+
+
+
+/* unvisited link */
+a:link {
+  color: purple;
+  font-weight: bold;
+}
+
+/* visited link */
+a:visited {
+  color: black;
+}
+
+/* mouse over link */
+a:hover {
+  color: purple;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
+
+/* Text */
+h1 {
+  background-color: #adc8d9;
+  font-size: 24px;
+  font-weight: bold;
+  color: black;
+
+}
+
+h2 {
+  background-color: #adc8d9;
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+
+}
+
+p {
+  display: block;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+footer {
+  border-top: 0.25vw solid black;
+}
+
+f {
+  display: flex;
+  justify-content: space-around;
+
+}
+
+ul {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+
+li {
+  height: 60vh;
+  flex-grow: auto;
+}
+
+img {
+  max-height: 100%;
+  min-width: 100%;
+  object-fit: cover;
+  vertical-align: bottom;
+
+}
