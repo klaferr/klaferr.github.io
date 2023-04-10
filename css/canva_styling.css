@@ -230,6 +230,8 @@ input[type=checkbox] {
   flex: 60%;
   justify-content: left;
   text-align: justify;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .righthalf {
@@ -239,6 +241,8 @@ input[type=checkbox] {
   flex-direction: column;
   justify-content: space-between;
   vertical-align: baseline;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
 .text-big {
