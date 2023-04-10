@@ -201,12 +201,12 @@ input[type=checkbox] {
   height: 90%;
 }
 
-  .row {
+.row {
     flex: 1;
     flex-direction: column;
   }
 
-  .lefthalf {
+.lefthalf {
   flex: 100%;
   justify-content: start;
   text-align: justify;
@@ -244,8 +244,6 @@ h2 {
   flex: 60%;
   justify-content: left;
   text-align: justify;
-  padding-left: 20px;
-  padding-right: 20px;
 }
 
 .righthalf {
@@ -255,8 +253,6 @@ h2 {
   flex-direction: column;
   justify-content: space-between;
   vertical-align: baseline;
-  padding-left: 20px;
-  padding-right: 20px;
 }
 
 .text-big {
