@@ -220,11 +220,11 @@ input[type=checkbox] {
   width: 50%;
 }
 
-  .img{
+.img{
     max-width: auto;
   }
   
-  h1 {
+h1 {
   background-color: #adc8d9;
   font-size: 14px;
   font-weight: bold;
@@ -260,7 +260,7 @@ h2 {
   font-size: 35px;
   justify-content: center;
 }
-
+}
 
 /* unvisited link */
 a:link {
@@ -328,5 +328,6 @@ li {
 img {
     display: flex;
     width: 30px;
+    max-width: 300px;
 }
 
