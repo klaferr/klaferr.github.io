@@ -291,6 +291,7 @@ input[type=checkbox] {
   flex: 60%;
   justify-content: left;
   text-align: justify;
+  font-size: 2vw;
 }
 
 .righthalf {
@@ -342,7 +343,7 @@ h2 {
 }
 
 p {
-  font-size: 2vw;
+  font-size: 4vw;
   display: block;
 
 }
