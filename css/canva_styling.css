@@ -9,6 +9,9 @@
 
 body {
   font-family: Sans-serif;
+      margin: 0;
+    width: 100vw;
+    height: 100vh;
 }
 
 a {
@@ -100,13 +103,15 @@ input[type=checkbox] {
 
 .hamburger {
   display: none;
-  font-size: 20px;
+  font-size: 25px;
   user-select: none;
+  padding-bottom: 2vw;
+  
 }
 
 /* APPLYING MEDIA QUERIES */
 
-@media (max-width: 800px) {
+@media (max-width: 600px) {
 
   .menu {
     display: none;
@@ -148,12 +153,50 @@ input[type=checkbox] {
 
 }
 
+@media (max-width: 400px) {
+
+  .menu {
+    display: none;
+    position: absolute;
+    background-color: #d1dee6;
+    text-align: center;
+  }
+
+  .menu li+li {
+    margin-top: 12px;
+  }
+
+  .menu li:hover {
+    display: inline-block;
+    background-color: #c7add9;
+    transition: 0.3s ease;
+  }
+
+  input[type=checkbox]:checked~.menu {
+    display: block;
+  }
+
+  .hamburger {
+    display: block;
+  }
+
+  .dropdown {
+    left: 20%;
+    top: 10px;
+    transform: translateX(35%);
+  }
+
+  .dropdown li:hover {
+    background-color: #c7add9;
+  }
+
+}
+
 /* Main sections */
 .secondsection {
   display: flex;
   background-color: #adc8d9;
   background-size: contain;
-  height: 90vh;
   justify-content: center;
   align-items: start;
   max-width: 100%;
@@ -168,7 +211,7 @@ input[type=checkbox] {
   color: black;
   max-width: 100%;
   margin: 2em;
-  height: 80%;
+  height: 100%;
 }
 
 
@@ -190,6 +233,7 @@ input[type=checkbox] {
   height: 120vw;
   align-items: start;
   flex-direction: column;
+  flex-grow: 1;
   }
 
 .box-main {
@@ -210,6 +254,7 @@ input[type=checkbox] {
   flex: 100%;
   justify-content: start;
   text-align: justify;
+  flex-grow: 1;
 }
 
 .righthalf {
@@ -218,6 +263,7 @@ input[type=checkbox] {
   justify-content: center;
   padding-top: 10vh;
   padding-right: 15vw;
+  flex-grow: 1;
 }
 
 .img{
@@ -307,7 +353,8 @@ footer {
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
-  height: 8vh;
+  margin: 0;
+  height: 10vh;
 }
 
 
@@ -334,7 +381,7 @@ img {
   justify-content: center;
   max-width: 100%;
   margin: auto;
-  height: 200vw;
+  height: 150vw;
   align-items: start;
   flex-direction: column;
   }
@@ -364,11 +411,13 @@ img {
   align-items: center;
   justify-content: center;
   padding-top: 10vh;
+  padding-left: 20vh;
 }
 
 .img{
   max-width: auto;
   width: 50vw;
+  
   }
   
 .h1 {
@@ -387,7 +436,7 @@ img {
   }
 }
 
-@media screen and (max-width: 290px) {
+@media screen and (max-width: 350px) {
   .secondsection {
   display: flex;
   background-color: #adc8d9;
@@ -395,7 +444,7 @@ img {
   justify-content: center;
   max-width: 100%;
   margin: auto;
-  height: 320vw;
+  height: 170vw;
   align-items: start;
   flex-direction: column;
   }
@@ -410,7 +459,6 @@ img {
 }
 
 .row {
-    flex: 1;
     flex-direction: column;
   }
 
@@ -424,8 +472,7 @@ img {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding-top: 10vh;
-  padding-right: 15vw;
+  padding-top: 1vh;
 }
 
 .img{
