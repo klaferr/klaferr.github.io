@@ -202,6 +202,7 @@ input[type=checkbox] {
   max-width: 100%;
   margin: auto;
   flex-direction: column;
+  height: 80vh;
 }
 
 .box-main {
