@@ -1,3 +1,3 @@
 # klaferr.github.io
 
-This is the repo for my website
+This is the repository for my professional website
