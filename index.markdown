@@ -12,7 +12,7 @@ permalink: /
 <img src="/images/main/kris_modelling2017_crop2.JPG" 
      alt="Kris in a cut out of a white parking garage wall, circa 2017"
      style="float: left; margin-right: 10px;"
-     width="150" />
+     width="300" />
 
 I am a third year Ph.D. candidate at Purdue University working with <a href="https://www.eaps.purdue.edu/bramson/" target="_blank"> <b> Professor Ali Bramson</b></a>. My current work is focused on studying the volatile mass balance on the Moon and Mars. 
  I am broadly interested in combining observations and modeling to explore planetary ices and their variability through time and space across spatial scales.
