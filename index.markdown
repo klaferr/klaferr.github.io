@@ -5,13 +5,6 @@
 layout: home
 ---
 
-
-| layout | title | permalink |
-| page | Home | / |
-
-
-
-
 <figure style="float:left;">
 <img src="https://klaferr.github.io/images/main/kris_modelling2017_crop2.JPG" alt="Kris in a cut out of a white parking garage wall, circa 2017", width="300">
 </a>
