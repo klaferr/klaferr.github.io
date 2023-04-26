@@ -1,13 +1,11 @@
 ---
 
 layout: page
-title: Leedberg
+title: Kris L. Laferriere
 permalink: /leedberg
 
 ---
 
-
-<h1 style="text-align:center"> Kris L. Laferriere </h1>
 <h2> What does the 'L.' stand for? </h2>
 <h3>Short answer: Leedberg </h3>
 	  
