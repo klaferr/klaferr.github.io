@@ -1,7 +1,7 @@
 ---
 
 layout: page
-title: Kris L. Laferriere
+title: Leedberg
 permalink: /leedberg
 
 ---
