@@ -37,7 +37,7 @@ Mapping of the Trough Migration Paths (TMPs) will allow for exploration of varia
 	<h3> With Dr. Jessica Sunshine and Dr. Lori Feaga, University of Maryland, College Park </h3>
 	    <h4> Published in JGR: Planets (2022) </h4>
 
-	The 3µm OH/H<sub>2</sub>O hydration feature on the Moon has been observed using various instruments. The 2009 Deep Impact spacecraft flyby present a unique view of the southern hemisphere, allowing for exploration of the feature spatially and temporally using near infrared spectroscopy. The HRI-IR spectrometer aboard Deep Impact includes out to 4.85 micrometers, which allowed for removal of the thermal component of the spectra through modeling of a scatter and thermal spectra component. This allows us to investigate the entire 3 micron absorption feature and the variability in strength and shape across the southern hemisphere. 
+The 3µm OH/H<sub>2</sub>O hydration feature on the Moon has been observed using various instruments. The 2009 Deep Impact spacecraft flyby present a unique view of the southern hemisphere, allowing for exploration of the feature spatially and temporally using near infrared spectroscopy. The HRI-IR spectrometer aboard Deep Impact includes out to 4.85 micrometers, which allowed for removal of the thermal component of the spectra through modeling of a scatter and thermal spectra component. This allows us to investigate the entire 3 micron absorption feature and the variability in strength and shape across the southern hemisphere. 
 
 As there were three fly-by observations, we also have a small region of repeat coverage spanning half of a lunar day. This allows for investigation into diurnal variation of the same physical region. 
 
