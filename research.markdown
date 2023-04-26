@@ -18,8 +18,6 @@ Mapping of the Trough Migration Paths (TMPs) will allow for exploration of varia
 	   
 <img src="/images/projects/Figure4_Paper1.jpg" alt="3D migration path mapped in Seisware">
 
-<img src="/images/projects/bar.jpeg" alt="bar graph showing number of meteors associate with each shower">
-
 # Past Projects 
 ## <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JE007361"> Exploring the variability of the 3 micron hydration feature across the southern hemisphere of the Moon </a> 
 ### With Dr. Jessica Sunshine and Dr. Lori Feaga, University of Maryland, College Park 
