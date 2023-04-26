@@ -16,9 +16,7 @@ Mars’ northern pole features a kilometers-thick ice cap of mostly pure water i
 Mapping of the Trough Migration Paths (TMPs) will allow for exploration of variations in shape of the paths and act as a tracer for Mars’ volatile mass balance.
 	Shown below is an example of a migration path mapped in the 3D dataset. 
 	   
-<img src="/images/projects/Website_shot.png" 
-     alt="3D migration path mapped in Seisware" 
-     width:"300" >
+<img src="/images/projects/Website_shot.png" alt="3D migration path mapped in Seisware" width:"300" >
 
 # Past Projects 
 ## <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JE007361"> Exploring the variability of the 3 micron hydration feature across the southern hemisphere of the Moon </a> 
