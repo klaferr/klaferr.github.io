@@ -20,4 +20,4 @@ I am a third year Ph.D. candidate at Purdue University working with <a href="htt
 The pronouns that I use are <a href="https://www.mypronouns.org/she-her" target="_blank"> <b>she/her/hers</b> </a> and <a href="https://www.mypronouns.org/they-them" target="_blank"> <b>they/them/theirs</b></a>.
 
 
-<a href="/Kris_CV_March_2023.pdf" target="_blank" Check out my CV here </a>
+<a href="/Kris_CV_March2023.pdf" target="_blank"> Check out my CV here </a>
