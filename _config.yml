@@ -29,6 +29,10 @@ twitter_username: krislaferriere
 github_username:  klaferr
 google_scholar: https://scholar.google.com/citations?user=i8Cgz9cAAAAJ&hl=en
 
+social_links:
+ - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
+
+
 # Build settings
 theme: minima
 plugins:
