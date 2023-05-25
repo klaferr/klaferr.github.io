@@ -27,7 +27,7 @@ url: "https://klaferr.github.io" # the base hostname & protocol for your site, e
 Domain: klaferr.github.io
 twitter_username: krislaferriere
 github_username:  klaferr
-google_scholar: https://scholar.google.com/citations?user=i8Cgz9cAAAAJ&hl=en
+googlescholar: https://scholar.google.com/citations?user=i8Cgz9cAAAAJ&hl=en
 
 # Build settings
 theme: minima
