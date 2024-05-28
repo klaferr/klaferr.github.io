@@ -9,8 +9,8 @@ permalink: /
 ---
 
 
-<img src="/images/main/KrisIceland2024.JPG" 
-     alt="Kris in a cut out of a white parking garage wall, circa 2017"
+<img src="/images/main/KrisIceland2024.jpeg" 
+     alt="Kris in a front of Kerid Crater, Iceland, circa May 2024"
      style="float: left; margin-right: 10px;"
      width="350" />
 
