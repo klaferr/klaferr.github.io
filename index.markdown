@@ -9,7 +9,7 @@ permalink: /
 ---
 
 
-<img src="/images/main/kris_modelling2017_crop2.JPG" 
+<img src="/images/main/KrisIceland2024.JPG" 
      alt="Kris in a cut out of a white parking garage wall, circa 2017"
      style="float: left; margin-right: 10px;"
      width="350" />
