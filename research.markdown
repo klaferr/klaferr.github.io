@@ -18,7 +18,7 @@ Mars’ northern pole features a kilometers-thick ice cap of mostly pure water i
 ### with Dr. Ali Bramson, Purdue University
  The mechanism which results in the observed diurnal varaibility of the 3 micron absorption feature is unknown. Here, we propose that ballistic migration can explain the observed variability, and test our hypothesis by modeling the transport of these particles using a Monte Carlo method. 
 
-
+----
 # In review
 ## Mars’ North Polar Spiral Trough Migration Paths as revealed through 3D Radar Mapping
 ### with Dr. Ali Bramson, Purdue University
