@@ -6,20 +6,26 @@ permalink: /research/
 
 Check out my <a href="https://scholar.google.com/citations?user=i8Cgz9cAAAAJ&hl=en" > google scholar </a> or <a href="https://ui.adsabs.harvard.edu/search/q=author%3A%22Laferriere%2C%20K.%20L.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"> search for me on NASA/ADS </a> for the most up-to-date links to papers and abstracts. 
 
-
 # On-going work
-## Mapping Migration Paths of Mars Northern Polar Spiral Troughs
+# Modeling Ice Mass balance using MCMC and Trough Migration Paths 
 ### with Dr. Ali Bramson, Purdue University
-      
 Mars’ northern pole features a kilometers-thick ice cap of mostly pure water ice, and most of this polar cap is made up of the North Polar Layered 
 	Deposits (NPLD). The NPLD is a series of continous layers of ice and dust. The variation in dust content allows for observation of these layers through ground penetrating radar, like SHARAD aboard MRO. 
 	These layers provide a record of variations in Mars’ climate due to orbital forcing. 
 	In the upper ~500 meters of the NPLD are sloping unconformities, which have been interpreted as bounding surfaces due to the migration of the spiral troughs poleward over time. 
+ 
+# Ballistic Transport of OH and H2O on lunar diurnal timescales
+### with Dr. Ali Bramson, Purdue University
+ The mechanism which results in the observed diurnal varaibility of the 3 micron absorption feature is unknown. Here, we propose that ballistic migration can explain the observed variability, and test our hypothesis by modeling the transport of these particles using a Monte Carlo method. 
 
-Mapping of the Trough Migration Paths (TMPs) will allow for exploration of variations in shape of the paths and act as a tracer for Mars’ volatile mass balance.
-	Shown below is an example of a migration path mapped in the 3D dataset. 
+
+# In review
+## Mars’ North Polar Spiral Trough Migration Paths as revealed through 3D Radar Mapping
+### with Dr. Ali Bramson, Purdue University
+      We have extensively mapped radar features known as "Trough Migration paths" throughout the recent SHARAD 3D dataset (link), characterizing the morphologies of these features which act as a tracer for Mars’ volatile mass balance over the past few million years.
+	Shown below is our map of TMPs (color is depth from above surface) and the regions categorized by surface and subsurface radar features. 
 	   
-<img src="/images/projects/Figure4_Paper1.jpg" alt="3D migration path mapped in Seisware">
+<img src="/images/projects/Figure6_Paper1.jpg" alt="Two panels, both are plan-view of Mars' northern polar ice cap. Left is overlain with a colorful map showing the location of mapped trough migration paths, with the color representing depth. Right is overlaid with red outlines of 5 regions.">
 
 # Past Projects 
 ## <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JE007361"> Exploring the variability of the 3 micron hydration feature across the southern hemisphere of the Moon </a> 
