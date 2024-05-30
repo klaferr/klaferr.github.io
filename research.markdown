@@ -16,14 +16,17 @@ Mars’ northern pole features a kilometers-thick ice cap of mostly pure water i
  
 # Ballistic Transport of OH and H2O on lunar diurnal timescales
 ### with Dr. Ali Bramson, Purdue University
- The mechanism which results in the observed diurnal varaibility of the 3 micron absorption feature is unknown. Here, we propose that ballistic migration can explain the observed variability, and test our hypothesis by modeling the transport of these particles using a Monte Carlo method. 
+ The mechanism which results in the observed diurnal varaibility of the 3 micron absorption feature is unknown. One potential mechanism that has been proposed is ballistic migration, however it has been suggested that measurements of the lunar exosphere disagree with this hypothesis. We explore if both the diurnal trends observed on the surface and the exopsheric density can be explained through ballistic transport. Shown below is the result of our OH and H2O models, revealing that ballistic transport produces similar exospheric densities to those observed.
 
+<img src="/images/projects/Figure10_Paper2.png" alt="Two panels, left is OH exospheric density versus altitude above the surface, compared to Wang et al. (2015) measured density. This plot shows that the OH exospheric density proposed here is lower than observations. Right is the H2O exospheric density versus altitude above the surface, compared to two different interpretations of the LADEE observations.">
+ 
 ----
 # In review
 ## Mars’ North Polar Spiral Trough Migration Paths as revealed through 3D Radar Mapping
 ### with Dr. Ali Bramson, Purdue University
-      We have extensively mapped radar features known as "Trough Migration paths" throughout the recent SHARAD 3D dataset (link), characterizing the morphologies of these features which act as a tracer for Mars’ volatile mass balance over the past few million years.
-	Shown below is our map of TMPs (color is depth from above surface) and the regions categorized by surface and subsurface radar features. 
+
+We have extensively mapped radar features known as "Trough Migration paths" throughout the recent SHARAD 3D dataset (link), characterizing the morphologies of these features which act as a tracer for Mars’ volatile mass balance over the past few million years.
+Shown below is our map of TMPs (color is depth from above surface) and the regions categorized by surface and subsurface radar features. 
 	   
 <img src="/images/projects/Figure6_Paper1.png" alt="Two panels, both are plan-view of Mars' northern polar ice cap. Left is overlain with a colorful map showing the location of mapped trough migration paths, with the color representing depth. Right is overlaid with red outlines of 5 regions.">
 
