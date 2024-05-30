@@ -31,6 +31,8 @@ Shown below is our map of TMPs (color is depth from above surface) and the regio
 	   
 <img src="/images/projects/Figure6_Paper1.png" alt="Two panels, both are plan-view of Mars' northern polar ice cap. Left is overlain with a colorful map showing the location of mapped trough migration paths, with the color representing depth. Right is overlaid with red outlines of 5 regions.">
 
+</br>
+---
 # Past Projects 
 ## <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JE007361"> Exploring the variability of the 3 micron hydration feature across the southern hemisphere of the Moon </a> 
 ### With Dr. Jessica Sunshine and Dr. Lori Feaga, University of Maryland, College Park 
