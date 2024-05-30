@@ -20,7 +20,7 @@ Mars’ northern pole features a kilometers-thick ice cap of mostly pure water i
 
 <img src="/images/projects/Figure10_Paper2.png" alt="Two panels, left is OH exospheric density versus altitude above the surface, compared to Wang et al. (2015) measured density. This plot shows that the OH exospheric density proposed here is lower than observations. Right is the H2O exospheric density versus altitude above the surface, compared to two different interpretations of the LADEE observations.">
 
-</br>
+<br />
 ----
 # In review
 ## Mars’ North Polar Spiral Trough Migration Paths as revealed through 3D Radar Mapping
@@ -31,7 +31,7 @@ Shown below is our map of TMPs (color is depth from above surface) and the regio
 	   
 <img src="/images/projects/Figure6_Paper1.png" alt="Two panels, both are plan-view of Mars' northern polar ice cap. Left is overlain with a colorful map showing the location of mapped trough migration paths, with the color representing depth. Right is overlaid with red outlines of 5 regions.">
 
-</br>
+<br />
 ---
 # Past Projects 
 ## <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JE007361"> Exploring the variability of the 3 micron hydration feature across the southern hemisphere of the Moon </a> 
