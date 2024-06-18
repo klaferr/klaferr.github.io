@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-Check out my <a href="https://scholar.google.com/citations?user=i8Cgz9cAAAAJ&hl=en" > google scholar </a> or <a href="https://ui.adsabs.harvard.edu/search/q=author%3A%22Laferriere%2C%20K.%20L.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"> search for me on NASA/ADS </a> for the most up-to-date links to papers and abstracts. 
+Check out my <a href="https://scholar.google.com/citations?user=i8Cgz9cAAAAJ&hl=en" > google scholar </a> or <a href="https://ui.adsabs.harvard.edu/search/q=author%3A%22Laferriere%2C%20K.%20L.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"> search for me on NASA/ADS </a> for the most up-to-date links to papers and abstracts. Please feel to email me if you cannot access the articles through your institution.
 
 # On-going work
 ## Modeling Ice Mass balance using MCMC and Trough Migration Paths 
