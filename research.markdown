@@ -7,13 +7,23 @@ permalink: /research/
 Check out my <a href="https://scholar.google.com/citations?user=i8Cgz9cAAAAJ&hl=en" > google scholar </a> or <a href="https://ui.adsabs.harvard.edu/search/q=author%3A%22Laferriere%2C%20K.%20L.%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"> search for me on NASA/ADS </a> for the most up-to-date links to papers and abstracts. Please feel to email me if you cannot access the articles through your institution.
 
 # On-going work
+
+## Exploring trends in lunar hydration as tied to surface illumination using the Imaging Infrared Spectrometer aboard Chandrayaan-2
+### with Dr. Ali Bramson, Purdue University
+Recent observations by Chandrayaan-2's infrared spectrometer (IIRS) provides a way to explore small scale variations of the 3µm OH/H<sub>2</sub>O hydration feature, focusing on how the variability relates to lighting conditions, instateneous surface temperature, and local time of day. The IIRS instrument covers the entire 3µm region and includes out to 5µm, allowing for direct removal of the thermal component of the spectra, using the method published in Laferriere et al. (2022). 
+
 ## Modeling Ice Mass balance using MCMC and Trough Migration Paths 
 ### with Dr. Ali Bramson, Purdue University
 Mars’ northern pole features a kilometers-thick ice cap of mostly pure water ice, and most of this polar cap is made up of the North Polar Layered 
 	Deposits (NPLD). The NPLD is a series of continous layers of ice and dust. The variation in dust content allows for observation of these layers through ground penetrating radar, like SHARAD aboard MRO. 
 	These layers provide a record of variations in Mars’ climate due to orbital forcing. 
 	In the upper ~500 meters of the NPLD are sloping unconformities, which have been interpreted as bounding surfaces due to the migration of the spiral troughs poleward over time. We are using a MCMC and phenomenological model to back out Mars' ice accumulation and loss rates through time based on the mapped trough migration paths. 
- 
+
+<img src="/images/projects/Figure_example_Paper4.png" alt="Two panels, left mapped trough migration path (red), with best fit model (linear accumulation, quadratic retreat) in blue. age of points are shown on the top of the plot. Right is the accumulation and retreat rates through time.">
+
+<br />
+----
+# In Review
 ## Ballistic Transport of OH and H2O on lunar diurnal timescales
 ### with Dr. Ali Bramson, Purdue University
  The mechanism which results in the observed diurnal varaibility of the 3 micron absorption feature is unknown. One potential mechanism that has been proposed is ballistic migration, however it has been suggested that measurements of the lunar exosphere disagree with this hypothesis. We explore if both the diurnal trends observed on the surface and the exopsheric density can be explained through ballistic transport. Shown below is the result of our OH and H2O models, revealing that ballistic transport produces similar exospheric densities to those observed.
@@ -23,7 +33,7 @@ Mars’ northern pole features a kilometers-thick ice cap of mostly pure water i
 <br />
 
 ----
-# In review
+# Accepted, JGR Planets
 ## Mars’ North Polar Spiral Trough Migration Paths as revealed through 3D Radar Mapping
 ### with Dr. Ali Bramson, Purdue University
 
@@ -32,7 +42,6 @@ Shown below is our map of TMPs (color is depth from above surface) and the regio
 	   
 <img src="/images/projects/Figure6_Paper1.png" alt="Two panels, both are plan-view of Mars' northern polar ice cap. Left is overlain with a colorful map showing the location of mapped trough migration paths, with the color representing depth. Right is overlaid with red outlines of 5 regions.">
 
-<br />
 
 ---
 # Past Projects 
