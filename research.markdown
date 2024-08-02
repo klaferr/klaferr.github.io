@@ -19,7 +19,7 @@ Mars’ northern pole features a kilometers-thick ice cap of mostly pure water i
 	These layers provide a record of variations in Mars’ climate due to orbital forcing. 
 	In the upper ~500 meters of the NPLD are sloping unconformities, which have been interpreted as bounding surfaces due to the migration of the spiral troughs poleward over time. We are using a MCMC and phenomenological model to back out Mars' ice accumulation and loss rates through time based on the mapped trough migration paths. 
 
-<img src="/images/projects/Figure_example_Paper4.png" alt="Two panels, left mapped trough migration path (red), with best fit model (linear accumulation, quadratic retreat) in blue. age of points are shown on the top of the plot. Right is the accumulation and retreat rates through time.">
+<img src="/images/projects/Figureexample_Paper4.png" alt="Two panels, left mapped trough migration path (red), with best fit model (linear accumulation, quadratic retreat) in blue. age of points are shown on the top of the plot. Right is the accumulation and retreat rates through time.">
 
 <br />
 ----
