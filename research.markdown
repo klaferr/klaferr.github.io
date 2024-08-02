@@ -16,7 +16,7 @@ Recent observations by Chandrayaan-2's infrared spectrometer (IIRS) provides a w
 ### with Dr. Ali Bramson, Purdue University
 Mars’ northern pole features a kilometers-thick ice cap of mostly pure water ice, and most of this polar cap is made up of the North Polar Layered 
 	Deposits (NPLD). The NPLD is a series of continous layers of ice and dust. The variation in dust content allows for observation of these layers through ground penetrating radar, like SHARAD aboard MRO. 
-	These layers provide a record of variations in Mars’ climate due to orbital forcing. 
+	These layers provide a record of variations in Mars’ climate due to orbital forcing. Shown below is an example of a TMP and best fit model determined from this approach, and the accumulation and ice retreat rate through time as recorded in this subsurface feature. 
 	In the upper ~500 meters of the NPLD are sloping unconformities, which have been interpreted as bounding surfaces due to the migration of the spiral troughs poleward over time. We are using a MCMC and phenomenological model to back out Mars' ice accumulation and loss rates through time based on the mapped trough migration paths. 
 
 <img src="/images/projects/Figureexample_Paper4.png" alt="Two panels, left mapped trough migration path (red), with best fit model (linear accumulation, quadratic retreat) in blue. age of points are shown on the top of the plot. Right is the accumulation and retreat rates through time.">
