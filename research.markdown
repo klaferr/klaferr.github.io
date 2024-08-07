@@ -22,6 +22,7 @@ Mars’ northern pole features a kilometers-thick ice cap of mostly pure water i
 <img src="/images/projects/Figureexample_Paper4.png" alt="Two panels, left mapped trough migration path (red), with best fit model (linear accumulation, quadratic retreat) in blue. age of points are shown on the top of the plot. Right is the accumulation and retreat rates through time.">
 
 <br />
+
 ----
 # In Review
 ## Ballistic Transport of OH and H2O on lunar diurnal timescales
