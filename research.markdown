@@ -34,9 +34,10 @@ Mars’ northern pole features a kilometers-thick ice cap of mostly pure water i
 <br />
 
 ----
-# Accepted, JGR Planets
-## Mars’ North Polar Spiral Trough Migration Paths as revealed through 3D Radar Mapping
+# Past Projects 
+## <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JE007996"> Mars’ North Polar Spiral Trough Migration Paths as revealed through 3D Radar Mapping
 ### with Dr. Ali Bramson, Purdue University
+#### Published in JGR: Planets (2024)
 
 We have extensively mapped radar features known as "Trough Migration paths" throughout the recent SHARAD 3D dataset (link), characterizing the morphologies of these features which act as a tracer for Mars’ volatile mass balance over the past few million years.
 Shown below is our map of TMPs (color is depth from above surface) and the regions categorized by surface and subsurface radar features. 
@@ -44,8 +45,6 @@ Shown below is our map of TMPs (color is depth from above surface) and the regio
 <img src="/images/projects/Figure6_Paper1.png" alt="Two panels, both are plan-view of Mars' northern polar ice cap. Left is overlain with a colorful map showing the location of mapped trough migration paths, with the color representing depth. Right is overlaid with red outlines of 5 regions.">
 
 
----
-# Past Projects 
 ## <a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JE007361"> Exploring the variability of the 3 micron hydration feature across the southern hemisphere of the Moon </a> 
 ### With Dr. Jessica Sunshine and Dr. Lori Feaga, University of Maryland, College Park 
 #### Published in JGR: Planets (2022) 
