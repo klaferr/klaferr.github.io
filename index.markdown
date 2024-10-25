@@ -17,7 +17,7 @@ permalink: /
 I am a fifth year Ph.D. candidate at Purdue University working with <a href="https://www.eaps.purdue.edu/bramson/" target="_blank"> <b> Professor Ali Bramson</b></a>. My current work is focused on studying the volatile mass balance on the Moon and Mars. 
 
 My research interests can be summarized by: where is there ice and why is it there? 
-Combining observations (previously, ground-penetrating radar and near-IR spectra) with modeling (previously, 1D thermal model and ballistic transport model) is my bread and butter. I am interesting in exploring the presence and variability of ice throughout the Solar System! 
+Combining observations (e.g., subsurface sounding radar and near-IR spectra) with modeling (e.g., 1D thermal model and ballistic transport model) is my bread and butter. I am interesting in exploring the presence and variability of ice throughout the Solar System! 
 
 I anticipate defending my PhD in Summer 2025 and am looking for postdoctoral opportunities!
 
