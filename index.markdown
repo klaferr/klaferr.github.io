@@ -24,4 +24,4 @@ I anticipate defending my PhD in Summer 2025 and am looking for postdoctoral opp
 The pronouns that I use are <a href="https://www.mypronouns.org/she-her" target="_blank"> <b>she/her/hers</b> </a> and <a href="https://www.mypronouns.org/they-them" target="_blank"> <b>they/them/theirs</b></a>.
 
 
-<a href="/KrisLaferriere_CV_October242024.pdf" target="_blank"> Check out my CV here </a>
+<a href="/KrisLaferriere_CV_Oct242024.pdf" target="_blank"> Check out my CV here </a>
