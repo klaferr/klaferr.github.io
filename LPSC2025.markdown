@@ -7,4 +7,17 @@ permalink: /LPSC2025/
 ---
 # Thank you for scanning my qr code!
 
-insert gif of lag thickness and retreat rates
+First, you can see the ice retreat rates at each slice as determined from the best fit model result.
+
+<img src="/images/projects/Region1_Retreatrate.gif" 
+     alt="Ice retreat rate in Region 1 as determined from phenomenological model and MCMC approach. "
+     style="float: left; margin-right: 10px;"
+     width="350" />
+
+Using our 1D thermal model (modified from Bramson et al. 2017 and Bramson et al. 2019), we can interpret the thickness of an insulating lag layer using these ice retreat rates (see below).
+
+<img src="/images/projects/Region1_LagThick_video.gif" 
+     alt="Lag thickness in Region 1 as determined from phenomenological model and MCMC approach."
+     style="float: left; margin-right: 10px;"
+     width="350" />
+
