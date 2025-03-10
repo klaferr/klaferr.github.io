@@ -1,0 +1,10 @@
+---
+
+layout: page
+title: LPSC 2025
+permalink: /LPSC2025/
+
+---
+# Thank you for scanning my qr code!
+
+insert gif of lag thickness and retreat rates
