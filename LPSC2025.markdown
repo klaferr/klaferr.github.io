@@ -13,6 +13,8 @@ First, you can see the ice retreat rates at each slice as determined from the be
      alt="Ice retreat rate in Region 1 as determined from phenomenological model and MCMC approach. "
      style="float: left; margin-right: 10px;"
      width="350" />
+\
+
 
 Using our 1D thermal model (modified from Bramson et al. 2017 and Bramson et al. 2019), we can interpret the thickness of an insulating lag layer using these ice retreat rates (see below).
 
