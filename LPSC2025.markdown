@@ -7,15 +7,18 @@ permalink: /LPSC2025/
 ---
 # Thank you for scanning my qr code!
 
-First, you can see the ice retreat rates at each slice as determined from the best fit model result.
+First, you can see the ice retreat rates at each slice in Region 1 as determined from the best fit model result for the last 1 Myrs.
 
 <img src="/images/projects/Region1_RetreatRate.gif" 
      alt="Ice retreat rate in Region 1 as determined from phenomenological model and MCMC approach. "/>
-
-
 
 Using our 1D thermal model (modified from Bramson et al. 2017 and Bramson et al. 2019), we can interpret the thickness of an insulating lag layer using these ice retreat rates (see below).
 
 <img src="/images/projects/Region1_LagThick_video.gif" 
      alt="Lag thickness in Region 1 as determined from phenomenological model and MCMC approach."/>
 
+We also have the ice retreat rates across the polar cap for the past 1 Myrs. 
+<img src="/images/projects/Regional_RetreatRate.gif" 
+     alt="Ice retreat rate in all Regions as determined from phenomenological model and MCMC approach. "/>
+
+The 1D thermal model lag thickness results for the entire cap is still in progress!
