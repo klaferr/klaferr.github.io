@@ -25,16 +25,17 @@ Mars’ northern pole features a kilometers-thick ice cap of mostly pure water i
 
 ----
 # In Review
-## Ballistic Transport of OH and H2O on lunar diurnal timescales
+----
+# Past Projects 
+## <a href="https://doi.org/10.1029/2024JE008628"> Quantities of Ballistically Hopping Water Molecules on the Moon: Consistent With Exospheric Hydration Observations
 ### with Dr. Ali Bramson, Purdue University
- The mechanism which results in the observed diurnal varaibility of the 3 micron absorption feature is unknown. One potential mechanism that has been proposed is ballistic migration, however it has been suggested that measurements of the lunar exosphere disagree with this hypothesis. We explore if both the diurnal trends observed on the surface and the exopsheric density can be explained through ballistic transport. Shown below is the result of our OH and H2O models, revealing that ballistic transport produces similar exospheric densities to those observed.
+#### Published in JGR: Planets (2025)
+The mechanism which results in the observed diurnal varaibility of the 3 micron absorption feature is unknown. One potential mechanism that has been proposed is ballistic migration, however it has been suggested that measurements of the lunar exosphere disagree with this hypothesis. We explore if both the diurnal trends observed on the surface and the exopsheric density can be explained through ballistic transport. Shown below is the result of our OH and H2O models, revealing that ballistic transport produces similar exospheric densities to those observed.
 
-<img src="/images/projects/Figure10_Paper2.png" alt="Two panels, left is OH exospheric density versus altitude above the surface, compared to Wang et al. (2015) measured density. This plot shows that the OH exospheric density proposed here is lower than observations. Right is the H2O exospheric density versus altitude above the surface, compared to two different interpretations of the LADEE observations.">
+<img src="/images/projects/Figure11.png" alt="Two panels, left is OH exospheric density versus altitude above the surface, compared to Wang et al. (2015) measured density. This plot shows that the OH exospheric density proposed here is lower than observations. Right is the H2O exospheric density versus altitude above the surface, compared to two different interpretations of the LADEE observations.">
 
 <br />
 
-----
-# Past Projects 
 ## <a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JE007996"> Mars’ North Polar Spiral Trough Migration Paths as revealed through 3D Radar Mapping
 ### with Dr. Ali Bramson, Purdue University
 #### Published in JGR: Planets (2024)
