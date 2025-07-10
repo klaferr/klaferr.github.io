@@ -1,9 +1,3 @@
----
-
-layout: page
-title: LPSC 2025
-
----
 # Thank you for scanning my qr code!
 
 First, you can see the ice retreat rates at each slice in Region 1 as determined from the best fit model result for the last 1 Myrs.
