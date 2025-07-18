@@ -14,12 +14,12 @@ permalink: /
      style="float: left; margin-right: 10px;"
      width="350" />
 
-I am a fifth year Ph.D. candidate at Purdue University working with <a href="https://www.eaps.purdue.edu/bramson/" target="_blank"> <b> Professor Ali Bramson</b></a>. My current work is focused on studying the volatile mass balance on the Moon and Mars. 
+I am a planetary science Ph.D. currently at Purdue University working with <a href="https://www.eaps.purdue.edu/bramson/" target="_blank"> <b> Professor Ali Bramson</b></a>. My current work is focused on studying the volatile mass balance on the Moon and Mars. 
 
 My research interests can be summarized by: where is there ice and why is it there? 
 Combining observations (e.g., subsurface sounding radar and near-IR spectra) with modeling (e.g., 1D thermal model and ballistic transport model) is my bread and butter. I am interested in exploring the presence and variability of ice throughout the Solar System! 
 
-I am defending my PhD in July 2025 and will be starting my postdoc at UCF/FSI in September! 
+I will be starting my postdoc at UCF/FSI in September 2025! 
 
 The pronouns that I use are <a href="https://www.mypronouns.org/she-her" target="_blank"> <b>she/her/hers</b> </a> and <a href="https://www.mypronouns.org/they-them" target="_blank"> <b>they/them/theirs</b></a>.
 
