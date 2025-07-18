@@ -24,4 +24,4 @@ I will be starting my postdoc at UCF/FSI in September 2025!
 The pronouns that I use are <a href="https://www.mypronouns.org/she-her" target="_blank"> <b>she/her/hers</b> </a> and <a href="https://www.mypronouns.org/they-them" target="_blank"> <b>they/them/theirs</b></a>.
 
 
-<a href="/KrisLaferrierePhd_CV_July2025.pdf" target="_blank"> Check out my CV here </a>
+<a href="/KrisLaferrierePhD_CV_July2025.pdf" target="_blank"> Check out my CV here </a>
