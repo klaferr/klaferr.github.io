@@ -19,9 +19,9 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Kris Laferriere
-email: klaferri@purdue.edu
+email: kris.Laferrirere@ucf.edu
 description: >- # this means to ignore newlines until "baseurl:"
- Planetary Science PhD candidate at Purdue University studying volatile mass balance across the Solar System
+ Planetary Science PhD at the Florida Space Institute studying volatile mass balance across the Solar System
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://klaferr.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 Domain: klaferr.github.io
