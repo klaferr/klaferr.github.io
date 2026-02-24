@@ -24,4 +24,4 @@ Combining observations (e.g., subsurface sounding radar and near-IR spectra) wit
 The pronouns that I use are <a href="https://www.mypronouns.org/she-her" target="_blank"> <b>she/her/hers</b> </a> and <a href="https://www.mypronouns.org/they-them" target="_blank"> <b>they/them/theirs</b></a>.
 
 
-<a href="/KrisLaferrierePhD_CV_Sept2025.pdf" target="_blank"> Check out my CV here </a>
+<a href="/KrisLaferrierePhD_CV_Feb242026.pdf" target="_blank"> Check out my CV here </a>
