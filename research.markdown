@@ -10,8 +10,9 @@ Check out my <a href="https://scholar.google.com/citations?user=i8Cgz9cAAAAJ&hl=
 
 ## Shape and Mutual Orbit Modeling of Equal-Mass Binary Near-Earth Asteroid System 2017 YE5 from Radar Observations  
 ### with Dr. Flaviane Venditti and Dr. Sean Marshall, Florida Space Institute
-2017 YE5 is one of four known near-earth equal-mass binary asteroids, and has many radar and photometry observations which can be used to determine the orbital and physical characteristics of this system. Previous work suggests that 2017 YE5 may be a dormant Jupiter-family comet due to its dark red color and it's orbit. Delay-doppler radar observations from Arecibo and Goldstone Observatories allows us to create a shape model for both components of this system. 
+2017 YE5 is one of four known near-earth equal-mass binary asteroids, and has many radar and photometry observations which can be used to determine the orbital and physical characteristics of this system. Previous work suggests that 2017 YE5 may be a dormant Jupiter-family comet due to its dark red color and it's orbit. Delay-doppler radar observations from Arecibo and Goldstone Observatories allows us to create a shape model for both components of this system, solve for the rotational poles, rotational and orbital period of each component, and determine the size of the bodies. 
 
+<img src="/images/projects/2017YE5_Jun232018_Goldstone.gif" alt="Two panels, left panel shows the evolving continuous wave (doppler-only) spectra of 2017 YE5 as observed on Jun 23rd 2018 by the Goldstone Solar System Radar (GSSR). The right panel shows the delay-Doppler data that these spectra are measured from.">
 
 ## Exploring trends in lunar hydration as tied to surface illumination using the Imaging Infrared Spectrometer aboard Chandrayaan-2
 ### with Dr. Ali Bramson, Purdue University
