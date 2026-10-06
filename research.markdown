@@ -32,6 +32,7 @@ Mars’ northern pole features a kilometers-thick ice cap of mostly pure water i
 <img src="/images/projects/Ch2.png" alt="Two panels, left Ice accumulation rate (mm/yr) from the best fit model average across each of four regions, compared to Mars' obliquity. The general trend is decreasing ice accumulation at the north pole with increasing obliquity. (right) Same plot, but for ice loss rate (mm/yr). This has a bimodal trend with obliquity, with the minimum value occuring around 25 degrees obliquity (present day). ">
 
 <br />
+
 ----
 # Past Projects 
 ## <a href="https://doi.org/10.1029/2024JE008628"> Quantities of Ballistically Hopping Water Molecules on the Moon: Consistent With Exospheric Hydration Observations
