@@ -20,6 +20,8 @@ Recent observations by Chandrayaan-2's infrared spectrometer (IIRS) provides a w
 
 <img src="/images/projects/Ch4.png" alt="Two panels, left band depth at 2.8 microns, representing OH absorption, versus temperature. Evening observations (1 hour from the terminator) are shown in green, while morning observations (two hours from terminator) are yellow. (right) Same plot, but versus incidence angle. Evening observations have higher overall band depth (abundance) across incidence angles, showing that this difference is not due to observational geometry.">
 
+----
+# In Review
 ## Modeling Ice Mass Balance using MCMC and Trough Migration Paths 
 ### with Dr. Ali Bramson, Purdue University
 Mars’ northern pole features a kilometers-thick ice cap of mostly pure water ice, and most of this polar cap is made up of the North Polar Layered 
@@ -30,9 +32,6 @@ Mars’ northern pole features a kilometers-thick ice cap of mostly pure water i
 <img src="/images/projects/Ch2.png" alt="Two panels, left Ice accumulation rate (mm/yr) from the best fit model average across each of four regions, compared to Mars' obliquity. The general trend is decreasing ice accumulation at the north pole with increasing obliquity. (right) Same plot, but for ice loss rate (mm/yr). This has a bimodal trend with obliquity, with the minimum value occuring around 25 degrees obliquity (present day). ">
 
 <br />
-
-----
-# In Review
 ----
 # Past Projects 
 ## <a href="https://doi.org/10.1029/2024JE008628"> Quantities of Ballistically Hopping Water Molecules on the Moon: Consistent With Exospheric Hydration Observations
