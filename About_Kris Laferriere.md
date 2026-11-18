@@ -20,7 +20,7 @@ Previously, I was a Ph.D. student at Purdue University working with [Professor A
 
 ## Research interests
 
-My research can be summed up by one question: where is there ice, and why is it there? I combine observations, such as subsurface sounding radar and near-IR spectra, with modeling, such as 1D thermal models and ballistic transport models. I’m interested in the presence and variability of ice throughout the Solar System.
+I'm broadly interested in planetary surface processes, with a special focus on the presence of ice, on bodies across the Solar System. I combine observations, such as subsurface sounding radar and near-IR spectra, with modeling, such as 1D thermal models and ballistic transport models.
 
 [Read my CV (PDF)](https://klaferr.github.io/KrisLaferrierePhD_CV_Feb242026.pdf)
 
