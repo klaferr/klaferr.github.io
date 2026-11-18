@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Research | Kris Laferriere</title>
+<meta name="description" content="Planetary Science PhD at the Florida Space Institute studying volatile mass balance across the Solar System">
+<style>
+:root {
+  --bg: #fdfdfb; --surface: #f1f1ec; --text: #1c1f24; --muted: #4a505a;
+  --link: #0b4fa8; --accent: #0b4fa8; --border: #c9ccd2;
+  box-sizing: border-box;
+  padding-top: env(safe-area-inset-top, 0px);
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --bg: #14161a; --surface: #1f2228; --text: #eceef1; --muted: #b4bac4;
+    --link: #8ab8ff; --accent: #8ab8ff; --border: #3a3f48;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #14161a; --surface: #1f2228; --text: #eceef1; --muted: #b4bac4;
+  --link: #8ab8ff; --accent: #8ab8ff; --border: #3a3f48;
+}
+*, *::before, *::after { box-sizing: border-box; }
+html { font-size: 112.5%; scroll-padding-top: env(safe-area-inset-top, 0px); }
+body { margin: 0; background: var(--bg); color: var(--text);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.65; }
+a { color: var(--link); text-underline-offset: 0.2em; text-decoration-thickness: 1px; }
+a:hover { text-decoration-thickness: 2px; }
+:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; border-radius: 2px; }
+.skip { position: absolute; left: 1rem; top: -4rem; background: var(--text); color: var(--bg); padding: 0.5rem 1rem; z-index: 20; }
+.skip:focus { top: 1rem; }
+.wrap { max-width: 42rem; margin: 0 auto; padding: 0 1.25rem; }
+header { border-bottom: 1px solid var(--border); padding: 1.25rem 0; }
+header .wrap { display: flex; flex-wrap: wrap; gap: 0.75rem 2rem; align-items: baseline; justify-content: space-between; }
+.site-name { font-weight: 700; font-size: 1.1rem; color: var(--text); margin: 0; }
+.site-name a { padding: 0.25rem 0.1rem; }
+nav ul { list-style: none; display: flex; flex-wrap: wrap; gap: 0.25rem 1.5rem; margin: 0; padding: 0; }
+nav a { color: var(--text); text-decoration: none; padding: 0.25rem 0; border-bottom: 2px solid transparent; }
+nav a:hover { border-bottom-color: var(--muted); }
+nav a[aria-current="page"] { border-bottom-color: var(--accent); font-weight: 600; }
+main { padding: 2.5rem 0 3rem; }
+h1 { font-size: 2rem; line-height: 1.2; margin: 0 0 1rem; }
+h2 { font-size: 1.4rem; margin: 3rem 0 0.5rem; padding-top: 1.25rem; border-top: 1px solid var(--border); }
+h3 { font-size: 1.1rem; line-height: 1.4; margin: 2rem 0 0.25rem; }
+p { margin: 0 0 1.25rem; max-width: 65ch; }
+.meta { color: var(--muted); font-size: 0.9rem; margin: 0 0 0.75rem; }
+.lede { color: var(--muted); }
+article { margin-bottom: 2.5rem; }
+figure { margin: 1.25rem 0 0; }
+figure img { display: block; max-width: 100%; height: auto; border-radius: 6px; background: #fff; border: 1px solid var(--border); }
+figcaption { color: var(--muted); font-size: 0.85rem; margin-top: 0.5rem; max-width: 65ch; }
+footer { border-top: 1px solid var(--border); padding: 1.5rem 0 2rem; color: var(--muted); font-size: 0.9rem; }
+footer p { margin: 0; }
+@media (prefers-reduced-motion: reduce) { * { transition: none !important; scroll-behavior: auto !important; } }
+</style>
+</head>
+<body>
+<a class="skip" href="#main">Skip to main content</a>
+
+<header>
+  <div class="wrap">
+    <p class="site-name">Kris <a href="https://klaferr.github.io/leedberg" aria-label="Leedberg page" title="Leedberg">L.</a> Laferriere</p>
+    <nav aria-label="Main">
+      <ul>
+        <li><a href="https://klaferr.github.io/">About</a></li>
+        <li><a href="https://klaferr.github.io/research/" aria-current="page">Research</a></li>
+        <li><a href="https://klaferr.github.io/GradApps/">Grad Apps</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+<main id="main">
+  <div class="wrap">
+    <h1>Research</h1>
+    <p class="lede">For the most up-to-date papers and abstracts, see my <a href="https://scholar.google.com/citations?user=i8Cgz9cAAAAJ&amp;hl=en">Google Scholar profile</a> or <a href="https://ui.adsabs.harvard.edu/search/q=author%3A%22Laferriere%2C%20K.%20L.%22&amp;sort=date%20desc%2C%20bibcode%20desc&amp;p_=0">search for me on NASA/ADS</a>. If you can’t access an article through your institution, please email me.</p>
+
+    <h2>Ongoing work</h2>
+
+    <article>
+      <h3>Shape and mutual orbit modeling of equal-mass binary near-Earth asteroid 2017 YE5 from radar observations</h3>
+      <p class="meta">With Dr. Flaviane Venditti and Dr. Sean Marshall, Florida Space Institute</p>
+      <p>2017 YE5 is one of four known equal-mass binary near-Earth asteroids, and it has many radar and photometry observations that can be used to determine the orbital and physical characteristics of the system. Previous work suggests it may be a dormant Jupiter-family comet, based on its dark red color and its orbit. Delay-Doppler radar observations from Arecibo and Goldstone Observatories let us build a shape model for both components, solve for their rotational poles and their rotational and orbital periods, and determine the size of each body.</p>
+      <figure>
+        <img src="https://klaferr.github.io/images/projects/2017YE5_Jun232018_Goldstone.gif" alt="Two panels. Left: the evolving continuous-wave (Doppler-only) spectra of 2017 YE5 observed on June 23, 2018 by the Goldstone Solar System Radar. Right: the delay-Doppler data those spectra are measured from." width="800" height="400" loading="lazy">
+      </figure>
+    </article>
+
+    <article>
+      <h3>Exploring trends in lunar hydration tied to surface illumination, using the Imaging Infrared Spectrometer aboard Chandrayaan-2</h3>
+      <p class="meta">With Dr. Ali Bramson, Purdue University</p>
+      <p>Observations from Chandrayaan-2’s infrared spectrometer (IIRS) let us explore small-scale variations in the 3 µm OH/H<sub>2</sub>O hydration feature and how they relate to lighting conditions, instantaneous surface temperature, and local time of day. IIRS covers the entire 3 µm region and extends out to 5 µm, which allows the thermal component of the spectra to be removed directly, using the method published in Laferriere et al. (2022).</p>
+      <p>Preliminary results suggest the diurnal variability is symmetric around local noon. Morning observations (yellow in the figure) have overall lower abundance than evening observations, which are closer to the terminator (2 lunar hours versus 1 hour).</p>
+      <figure>
+        <img src="https://klaferr.github.io/images/projects/Ch4.png" alt="Two panels. Left: band depth at 2.8 microns, representing OH absorption, versus temperature. Evening observations, 1 hour from the terminator, are green; morning observations, 2 hours from the terminator, are yellow. Right: the same plot versus incidence angle. Evening observations have higher band depth (abundance) across incidence angles, showing the difference is not due to observation geometry." width="800" height="400" loading="lazy">
+      </figure>
+    </article>
+
+    <h2>In review</h2>
+
+    <article>
+      <h3>Modeling ice mass balance using MCMC and trough migration paths</h3>
+      <p class="meta">With Dr. Ali Bramson, Purdue University</p>
+      <p>Mars’ northern pole has a kilometers-thick cap of mostly pure water ice, made up largely of the North Polar Layered Deposits (NPLD): continuous layers of ice and dust. Variations in dust content let ground-penetrating radar, like SHARAD aboard MRO, observe these layers, which record changes in Mars’ climate driven by orbital forcing.</p>
+      <p>In the upper ~500 meters of the NPLD are sloping unconformities, interpreted as surfaces left by the poleward migration of the spiral troughs over time. We used an MCMC approach combined with a phenomenological model to recover Mars’ ice accumulation and loss rates through time from mapped trough migration paths (TMPs). Overall, we find that ice accumulation decreases with increasing obliquity, as expected, and that ice loss is bimodal with obliquity, which is less expected.</p>
+      <figure>
+        <img src="https://klaferr.github.io/images/projects/Ch2.png" alt="Two panels. Left: ice accumulation rate in mm/yr from the best-fit model, averaged across each of four regions, compared to Mars' obliquity. Accumulation at the north pole generally decreases with increasing obliquity. Right: the same plot for ice loss rate, which is bimodal with obliquity, with its minimum near 25 degrees, the present-day value." width="800" height="400" loading="lazy">
+      </figure>
+    </article>
+
+    <h2>Past projects</h2>
+
+    <article>
+      <h3><a href="https://doi.org/10.1029/2024JE008628">Quantities of ballistically hopping water molecules on the Moon: consistent with exospheric hydration observations</a></h3>
+      <p class="meta">With Dr. Ali Bramson, Purdue University · Published in JGR: Planets (2025)</p>
+      <p>The mechanism behind the observed diurnal variability of the 3 µm absorption feature is unknown. One proposed mechanism is ballistic migration, but it has been suggested that measurements of the lunar exosphere disagree with that hypothesis. We explore whether ballistic transport can explain both the diurnal trends observed on the surface and the exospheric density. Our OH and H<sub>2</sub>O models show that ballistic transport produces exospheric densities similar to those observed.</p>
+      <figure>
+        <img src="https://klaferr.github.io/images/projects/Figure11.png" alt="Two panels. Left: OH exospheric density versus altitude above the surface, compared with the density measured by Wang et al. (2015); the modeled OH density is lower than observed. Right: H2O exospheric density versus altitude, compared with two interpretations of the LADEE observations." width="800" height="400" loading="lazy">
+      </figure>
+    </article>
+
+    <article>
+      <h3><a href="https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2023JE007996">Mars’ north polar spiral trough migration paths as revealed through 3D radar mapping</a></h3>
+      <p class="meta">With Dr. Ali Bramson, Purdue University · Published in JGR: Planets (2024)</p>
+      <p>We extensively mapped radar features known as trough migration paths throughout the recent SHARAD 3D dataset, characterizing the morphologies of features that act as a tracer of Mars’ volatile mass balance over the past few million years. The figure shows our map of TMPs, colored by depth below the surface, and regions categorized by their surface and subsurface radar features.</p>
+      <figure>
+        <img src="https://klaferr.github.io/images/projects/Figure6_Paper1.png" alt="Two plan-view panels of Mars' northern polar ice cap. Left: a colorful map of mapped trough migration paths, colored by depth. Right: red outlines of five regions." width="800" height="400" loading="lazy">
+      </figure>
+    </article>
+
+    <article>
+      <h3><a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022JE007361">Exploring the variability of the 3 micron hydration feature across the southern hemisphere of the Moon</a></h3>
+      <p class="meta">With Dr. Jessica Sunshine and Dr. Lori Feaga, University of Maryland, College Park · Published in JGR: Planets (2022)</p>
+      <p>The 3 µm OH/H<sub>2</sub>O hydration feature on the Moon has been observed with various instruments. The 2009 Deep Impact flyby gave a unique view of the southern hemisphere, allowing the feature to be explored spatially and temporally with near-infrared spectroscopy. The HRI-IR spectrometer aboard Deep Impact extends to 4.85 µm, which let us remove the thermal component of the spectra by modeling scattered and thermal components. This allowed us to investigate the entire 3 µm absorption feature and its variation in strength and shape across the southern hemisphere.</p>
+      <p>Because there were three flyby observations, a small region has repeat coverage spanning half a lunar day, which let us investigate diurnal variation of the same physical region.</p>
+      <figure>
+        <img src="https://klaferr.github.io/images/projects/Figure10.jpg" alt="Left: locations of pixels shown on the right in each science scan. Right, top: integrated band depth by time of day for all repeated pixels, with temperature as color. Right, bottom: a selected region, again integrated band depth versus time of day, showing a temperature-dependent recovery in the evening." width="800" height="400" loading="lazy">
+      </figure>
+    </article>
+
+    <article>
+      <h3>Survey of low-speed meteor showers</h3>
+      <p class="meta">With Dr. Althea Moorhead, Marshall Space Flight Center, Meteoroid Environment Office</p>
+      <p>Correctly associating observed meteors with showers improves our ability to predict and forecast future shower fluxes. Slow meteors are often difficult to associate because of their geometry on entering Earth’s atmosphere, so we associated meteors with showers using their heliocentric radiant rather than the geocentric radiant in which they are observed. Using the heliocentric radiant associated more medium- to slow-speed meteors with known showers than the geocentric radiant did.</p>
+      <p>We used a density-based spatial clustering algorithm with noise (DBSCAN) to organize meteors into showers by speed, direction (radiant), and time of occurrence. The bar chart shows the number of members associated with each shower under the heliocentric and geocentric approaches. Note that the x-axis is logarithmic.</p>
+      <figure>
+        <img src="https://klaferr.github.io/images/projects/bar.jpeg" alt="Bar graph of the number of meteors associated with each shower, comparing the heliocentric and geocentric approaches, on a logarithmic x-axis." width="800" height="400" loading="lazy">
+      </figure>
+    </article>
+  </div>
+</main>
+
+<footer>
+  <div class="wrap">
+    <p>Kris Laferriere · <a href="mailto:kris.Laferriere@ucf.edu">kris.Laferriere@ucf.edu</a></p>
+  </div>
+</footer>
+</body>
+</html>
